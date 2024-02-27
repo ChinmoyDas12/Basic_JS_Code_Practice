@@ -1,0 +1,13 @@
+var prompt = require('prompt-sync')(); 
+
+var username = prompt( "enter your name: ")
+
+if (username == "Robi"){
+    console.log ("Welcome!")
+}else if (username == "Teletalk"){
+    console.log ("Welcome!")
+}else if (username == "Banglalink"){ 
+    console.log ("Welcome!");
+} else {
+    console.log ("Sorry! We do not find you in the system.")
+}
