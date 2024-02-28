@@ -1,1 +1,30 @@
+var person= {
+    name: "Alex",
+    age: 22,
+    occupation: "Artist"
+}                                                                                    
+console.log ("His name is",person.name)
+console.log ("His age is",person.age)
+console.log ("His Occupation is",person.occupation)
 
+person.age= 24
+console.log("The updated age is :",person.age)
+
+
+person.hobbies ="Playing piano"
+console.log("His hobby is",person.hobbies)
+
+
+var student = {
+    name: "Chinmoy", 
+    age : 22, 
+    numbers: [89, 76, 56],
+    calculateAverage: function() {
+        var sum = 0;
+        for (var i = 0; i < this.numbers.length; i++) {
+          sum += this.numbers[i];
+        }
+        var avg = sum / this.numbers.length;
+        return avg;
+      }
+    }
