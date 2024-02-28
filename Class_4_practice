@@ -1,0 +1,42 @@
+prompt = require("prompt-sync")()
+
+ar = []
+ar2= []
+for (var i=0; i< 5; i++){
+    var a = Number(prompt("Enter five numbers: "))
+    if (a % 2 ==0)
+    ar.push(a)
+else
+    ar2.push(a)
+}
+console.log("The even numbers are: ", ar)
+console.log("The odd numbers are: ",ar2)
+
+prompt = require("prompt-sync")()
+ar = []
+for (var i=0; i< 5; i++){
+    var a= Number(prompt("Enter five numbers: "))
+    ar.push(a)
+}
+console.log("The unsorted numbers are: ", ar)
+var sortnum = ar.sort()
+console.log("The sorted numbers are: ", sortnum)
+
+
+Matrix = [[1, 2, 3],
+          [4, 5, 6],
+          [7, 8, 9]]
+
+console.log("Original Matrix is:", Matrix)
+
+for(var i=0; i< Matrix.length; i++){
+    for(var j=0; j<Matrix[i].length; j++)
+    Matrix[i][j]++
+}
+console.log("Increased Matrix is:", Matrix)
+
+  
+
+
+
+
