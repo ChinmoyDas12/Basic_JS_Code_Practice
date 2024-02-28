@@ -1,0 +1,37 @@
+var prompt = require("prompt-sync")();
+var x = Number(prompt("Enter the value of x : "))
+function a(x){
+    return Y= (x**2 +2*x+6)
+}
+var Y= a(x)
+console.log("The value of Y is :", Y)
+
+
+function greet (name = "Guest"){
+    console.log ("Welcome", name)
+}
+greet() 
+
+
+function sum(n1,n2){
+    return n1+n2
+}
+function subtract(n1,n2){
+    return n1-n2
+}
+function multiply(n1,n2){
+    return n1*n2
+}
+function calculate(n1,n2,sum,subtract,multiply){
+    return sum(n1,n2)
+}
+console.log ("The sum of the numbers are :", calculate(7,2,sum))
+console.log ("The subtraction of the numbers are :", calculate(7,2,subtract))
+console.log ("The multiplication of the numbers are :", calculate(7,2,multiply))
+
+
+var a=[2,3,4,5,6,7]
+var b= a.map(a=>a*a)
+console.log(b)
+
+
