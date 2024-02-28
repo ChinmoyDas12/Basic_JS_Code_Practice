@@ -1,0 +1,10 @@
+# This repo shows the JS code which I wrote to practice Basic learning of JS Code
+
+For the first and second class my assignment link is [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_1%262)
+
+For the Third class my assignment link is [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_3_practice)
+
+For the fourth class my assignment link is [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_4_practice)
+
+For the Fifth class my assignment link is [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_5_practice)
+
