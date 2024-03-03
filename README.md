@@ -10,4 +10,5 @@ For the Fifth class my assignment link is [link text](https://github.com/Chinmoy
 
 For the Sixth class my assignment link is [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/main/Class_6_practice)
 
-For the Seventh assignment I changed the pixel value of and image, here is the link link text
+For the Seventh assignment I changed the pixel value of and image, here is the link [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/main/gray-emoji.png)
+
