@@ -1,0 +1,14 @@
+var a= ee.Dictionary({
+  "name":"Your_name",
+
+  "hobby":"reading",
+
+  "numList":[2,3,4,5,6,7,9]
+});
+print ("It is a dictionary  object: ", a);
+var b = a.get("numList");
+print("The list is ", b);
+
+var c = ee.List(b);
+var sumNum =c.reduce(ee.Reducer.sum());
+print ("The sum of the numberlist is: ", sumNum)
