@@ -1,9 +1,9 @@
-var a = ee.List([4,5,7,8,9]);
-print("It is a GEE List Object: ", a);
-function b (num){
-  var c= ee.Number(num);
-  return c.multiply (4);
-}
-var d = a.map(b);
+var numlist = ee.List([4,5,7,8,9])
 
-print ("The new list is: ", d)
+print (numlist)
+
+var newnum= numlist.map(function(num){
+  var num =ee.Number(num)
+  return num.multiply(4)
+})
+print (newnum)
