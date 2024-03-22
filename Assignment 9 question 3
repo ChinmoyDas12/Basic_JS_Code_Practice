@@ -1,0 +1,5 @@
+
+print(roi)
+var upazila = roi.filter(ee.Filter.eq("NAME_3","Bandarban S."))
+print (upazila)
+Map.addLayer(upazila,{},"Bandarban S.")
