@@ -13,6 +13,7 @@ For the Sixth class my assignment link is [link text](https://github.com/Chinmoy
 For the Seventh assignment I changed the pixel value of and image, here is the link [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/main/gray-emoji.png)
 Another color seperated image is [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/main/Image%20color%20seperated.png)
 
+The GEE code for assignment 9 is [link text](https://code.earthengine.google.com/b96535f5994c34d905104174d814bced)
 
 
 
