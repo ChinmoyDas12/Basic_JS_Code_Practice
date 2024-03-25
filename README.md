@@ -1,19 +1,19 @@
 # This repo shows the JS code which I wrote to practice Basic learning of JS Code
 
-For the first and second class my assignment link is [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_1%262)
+Assignment 1st and 2nd [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_1%262)
 
-For the Third class my assignment link is [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_3_practice)
+Assignment 3ed [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_3_practice)
 
-For the fourth class my assignment link is [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_4_practice)
+Assignment 4th [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_4_practice)
 
-For the Fifth class my assignment link is [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_5_practice)
+Assignment 5th [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_5_practice)
 
-For the Sixth class my assignment link is [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/main/Class_6_practice)
+Assignment 6th [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/main/Class_6_practice)
 
 For the Seventh assignment I changed the pixel value of and image, here is the link [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/main/gray-emoji.png)
-Another color seperated image is [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/main/Image%20color%20seperated.png)
+Another color separated image is [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/main/Image%20color%20seperated.png)
 
-The GEE code for assignment 9 is [link text](https://code.earthengine.google.com/b96535f5994c34d905104174d814bced)
+Assignment 9th [link text](https://code.earthengine.google.com/b96535f5994c34d905104174d814bced)
 
 Assignment 10 question 1--[link text](https://code.earthengine.google.com/b913184d535fd3a95262143918b141ae)
 Screenshot--[link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/a3ffad78440f4e3291b83e884d45aca9e4f2131e/1.png)
