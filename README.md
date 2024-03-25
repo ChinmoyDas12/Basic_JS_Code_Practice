@@ -17,8 +17,10 @@ The GEE code for assignment 9 is [link text](https://code.earthengine.google.com
 
 Assignment 10 question 1--[link text](https://code.earthengine.google.com/b913184d535fd3a95262143918b141ae)
 Screenshot--[link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/a3ffad78440f4e3291b83e884d45aca9e4f2131e/1.png)
+
 Assignment 10 question 2--[link text](https://code.earthengine.google.com/482790588a61da0a224421458745e1a4)
 Screenshot--[link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/77cbde174c123ede00707296b0dca0140826f6ff/2.png)
+
 Assignment 10 question 3--[link text](https://code.earthengine.google.com/1e9c94e22016fe7e07e0060e21d5a9c2)
 Screenshot--[link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/77cbde174c123ede00707296b0dca0140826f6ff/3.png)
 
