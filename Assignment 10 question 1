@@ -1,0 +1,12 @@
+var imageCollection = ee.ImageCollection("LANDSAT/LC09/C02/T1") ;
+var startDate = '2018-01-01';
+var endDate = '2019-01-01';
+var roi = ee.Geometry.Point(91.82,22.44);
+Map.centerObject(roi);
+var filteredLandsat =imageCollection
+  .filterDate(startDate,endDate)
+  .filterBounds(roi);
+var singleImage = imageCollection.first();
+var capturedate =singleImage.get('system:time_start');
+print('Capture date of the first image: ', ee.Date(capturedate).format('YYYY-MM-DD'));
+
