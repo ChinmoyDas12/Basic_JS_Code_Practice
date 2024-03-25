@@ -15,5 +15,7 @@ Another color seperated image is [link text](https://github.com/ChinmoyDas12/Bas
 
 The GEE code for assignment 9 is [link text](https://code.earthengine.google.com/b96535f5994c34d905104174d814bced)
 
+Screenshot of assignment 10 question 1 [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/6a5c73bf6644882025257cc23bf283ccb69d6c62/1.png)
+
 
 
