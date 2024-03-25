@@ -1,0 +1,17 @@
+var myupazila = roi.filter(ee.Filter.eq("NAME_3","Bandarban S."))
+print (myupazila)
+Map.addLayer(myupazila,{},"Bandarban S.")
+Map.centerObject(myupazila)
+
+var s2  = ee.ImageCollection("LANDSAT/LC09/C02/T1")
+            .filterBounds(myupazila)
+            .filterDate("2022-01-01","2023-01-01")
+            .median();
+print(s2)
+
+var vizperams= {
+  min:0,
+  max:3000,
+  bands:["B4","B3","B2"]
+}
+Map.addLayer(s2.clip(myupazila),vizperams,"RGB Image of Bandarban Sadar")
