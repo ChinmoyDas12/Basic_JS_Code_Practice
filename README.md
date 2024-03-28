@@ -1,3 +1,4 @@
+![Result](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/assets/158170409/b2e39d9d-08e6-4b86-b892-a6e73326d726)
 # This repo shows the JS code which I wrote to practice Basic learning of JS Code
 
 Assignment 1st and 2nd [link text](https://github.com/ChinmoyDas12/Code-practice/blob/main/Class_1%262)
