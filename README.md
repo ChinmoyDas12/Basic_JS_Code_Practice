@@ -24,7 +24,7 @@ Screenshot--[link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/b
 Answer of Assignment 10 question 3--[link text](https://code.earthengine.google.com/1e9c94e22016fe7e07e0060e21d5a9c2)
 Screenshot--[link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/77cbde174c123ede00707296b0dca0140826f6ff/3.png)
 
-Assignment 11 Question 1 -- [link text](https://code.earthengine.google.com/2d034b18324d6bd00ce3bbef7f83e06a)
+Answer of Assignment 11 Question 1 -- [link text](https://code.earthengine.google.com/2d034b18324d6bd00ce3bbef7f83e06a)
 Screenshot-- [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/230e9c591d357218ac5b9fe71bd370c5f890d8f1/1.png)
 
 Answer of Assignment 11 Question 2 -- [link text](https://code.earthengine.google.com/b52b753df580d993eef87885c9268385)
