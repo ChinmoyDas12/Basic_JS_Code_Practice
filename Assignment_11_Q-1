@@ -1,0 +1,17 @@
+Question is = Make a NDVI map of your upazila by using Landsat 9 imagery for 2022. Upload the code, code link, and screenshot in your github repo. Submit the repo link.
+Code =
+var upazila = roi.filter(ee.Filter.eq("NAME_3","Bandarban S."))
+Map.addLayer(upazila,{},"Bandarban S.")
+Map.centerObject(upazila)
+
+var images = ee.ImageCollection("LANDSAT/LC09/C02/T1_L2")
+     .filterBounds(upazila)
+     .filterDate("2021-01-01","2022-12-31")
+     .first();
+print(images)
+var nir = images.select("SR_B5")
+var red = images.select("SR_B4")
+var ndvi =nir.subtract(red).divide(nir.add(red));
+print(ndvi)
+Map.addLayer(ndvi.clip(upazila),{min:0, max:1,palette: ["black", "yellow", "green"]})
+Export.image(ndvi, "NDVI_2022_Landsat9", {scale:10});
