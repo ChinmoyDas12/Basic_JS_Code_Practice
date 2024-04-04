@@ -30,10 +30,10 @@ Screenshot-- [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/
 Answer of Assignment 11 Question 2 -- [link text](https://code.earthengine.google.com/b52b753df580d993eef87885c9268385)
 Screenshot-- [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/e967e3ef100f5167f8441579cc7562a9c70ba76d/2.png)
 
-Answer of Assignment 11 Question 3 -- [link text](
-Screenshot-- [link text](
+Answer of Assignment 11 Question 3 -- [link text](https://code.earthengine.google.com/14237651ca770af43806bacac8725187)
+Screenshot-- [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/4a2ad12c2dd61d651c1f166d171200ac9b882244/q3.png)
 
-Answer of Assignment 11 Question 4 -- [link text](
-Screenshot-- [link text](
+Answer of Assignment 11 Question 4 -- [link text](https://code.earthengine.google.com/3a113143df4545ed4a664e4d8a28d437)
+Screenshot-- [link text](https://github.com/ChinmoyDas12/Basic_JS_Code_Practice/blob/d54bb6512c7e231080b8afc14f42a1777804bf80/qs4.png)
 
 
